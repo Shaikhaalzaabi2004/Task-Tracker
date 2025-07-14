@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskTracker.AddTaskPage"
+             Title="AddTaskPage">
+    <ScrollView>
+        <VerticalStackLayout
+        Padding="30,0"
+        Spacing="25"
+        WidthRequest="400">
+            <HorizontalStackLayout Margin="0, 20, 0, 0">
+                <Image Source="lily_pad_flower.png" WidthRequest="60"/>
+                <Label Text="Add Task" FontSize="30" FontFamily="WinkyRoughBold" VerticalOptions="Center" Margin="20,0,0,0"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Margin="0, 20, 0, 0">
+                <Label Text="Name: " FontSize="20" VerticalOptions="Center" WidthRequest="150"/>
+                <Entry x:Name="nameEntry" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Margin="0, 20, 0, 0">
+                <Label Text="Description: " FontSize="20" VerticalOptions="Center" WidthRequest="150"/>
+                <Entry x:Name="descriptionEntry" WidthRequest="200"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Margin="0, 20, 0, 0">
+                <Label Text="Due Date: " FontSize="20" VerticalOptions="Center" WidthRequest="150"/>
+                <DatePicker x:Name="datePicker" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Margin="0, 20, 0, 0">
+                <Button x:Name="addTaskBtn" Clicked="addTaskBtn_Clicked" Text="Add" WidthRequest="80"/>
+                <Button x:Name="cancelBtn" Clicked="cancelBtn_Clicked" Text="Cancel" WidthRequest="80" Margin="20, 0, 0, 0"/>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

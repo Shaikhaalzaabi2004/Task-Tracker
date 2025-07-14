@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\viewmodels\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\viewmodels\\todolistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\viewtaskspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\viewtaskspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\addtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\addtaskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\viewtaskspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\viewtaskspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\addtaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\addtaskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\viewmodels\\taskpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\viewmodels\\taskpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|c:\\users\\shaik\\desktop\\personal\\projects\\tasktracker\\tasktracker\\tasktracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13B0BD99-49DA-4B63-AB7B-51E3C4975428}|TaskTracker\\TaskTracker.csproj|solutionrelative:tasktracker\\tasktracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddTaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\AddTaskPage.xaml",
+              "RelativeDocumentMoniker": "TaskTracker\\AddTaskPage.xaml",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\AddTaskPage.xaml",
+              "RelativeToolTip": "TaskTracker\\AddTaskPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T20:47:23.054Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "TaskTracker\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "TaskTracker\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAowIgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:25:21.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\MainPage.xaml.cs*",
+              "RelativeToolTip": "TaskTracker\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:45:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\MauiProgram.cs",
+              "RelativeToolTip": "TaskTracker\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:52:19.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewModels\\ToDoListViewModel.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\ViewModels\\ToDoListViewModel.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewModels\\ToDoListViewModel.cs",
+              "RelativeToolTip": "TaskTracker\\ViewModels\\ToDoListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:44:47.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewTasksPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewTasksPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\ViewTasksPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewTasksPage.xaml.cs",
+              "RelativeToolTip": "TaskTracker\\ViewTasksPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:01:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskTracker\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:11:50.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewTasksPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewTasksPage.xaml",
+              "RelativeDocumentMoniker": "TaskTracker\\ViewTasksPage.xaml",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewTasksPage.xaml",
+              "RelativeToolTip": "TaskTracker\\ViewTasksPage.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwDMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T18:01:34.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TaskTracker\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\MainPage.xaml",
+              "RelativeToolTip": "TaskTracker\\MainPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T20:45:26.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "TaskTracker\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "TaskTracker\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T21:29:05.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTaskPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\AddTaskPage.xaml.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\AddTaskPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\AddTaskPage.xaml.cs",
+              "RelativeToolTip": "TaskTracker\\AddTaskPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:07:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\AppShell.xaml.cs",
+              "RelativeToolTip": "TaskTracker\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:33:03.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewModels\\TaskPageViewModel.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\ViewModels\\TaskPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\ViewModels\\TaskPageViewModel.cs",
+              "RelativeToolTip": "TaskTracker\\ViewModels\\TaskPageViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:13:22.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskList.cs",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Models\\TaskList.cs",
+              "RelativeDocumentMoniker": "TaskTracker\\Models\\TaskList.cs",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\Models\\TaskList.cs",
+              "RelativeToolTip": "TaskTracker\\Models\\TaskList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:45:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\TaskTracker.csproj",
+              "RelativeDocumentMoniker": "TaskTracker\\TaskTracker.csproj",
+              "ToolTip": "C:\\Users\\Shaik\\Desktop\\Personal\\Projects\\TaskTracker\\TaskTracker\\TaskTracker.csproj",
+              "RelativeToolTip": "TaskTracker\\TaskTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T20:44:00.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
